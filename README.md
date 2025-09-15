@@ -42,33 +42,33 @@
 ## 🌐 Languages
   ### Python
   - **Usage** → Backend (FastAPI), automations, data processing
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Are you asleep](https://github.com/LostyGuy/Are-you-asleep), [](), []()
   - **Confidence** → Learning || Intermediate
 
   ### SQL
   - **Usage** → Database
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Previous INF.03 Exams](https://github.com/LostyGuy/Egzamin-Zawodowy-EE09-INF03), [](), []()
   - **Confidence** → Beginner
 
   ### JavaScript
   - **Usage** → Dynamic changes to website, Animations
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Previous INF.03 Exams](https://github.com/LostyGuy/Egzamin-Zawodowy-EE09-INF03), [](), []()
   - **Confidence** → Beginner
 
   ### HTML+CSS
   - **Usage** → Websites
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Theater website](https://github.com/LostyGuy/HTML), [](), []()
   - **Confidence** → Beginner
 
   ### PHP
   - **Usage** → Connecting to Databases, forms handling
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Previous INF.03 Exams](https://github.com/LostyGuy/Egzamin-Zawodowy-EE09-INF03), [](), []()
   - **Confidence** → Beginner
 
 ## 📦 Frameworks & Libraries
   ### FastAPI
   - **Usage** → APIs(Python)
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Order Management System](https://github.com/LostyGuy/Order-Management-System), [](), []()
   - **Confidence** → Learning || Beginner
 
   <!-- ### Pandas
@@ -83,7 +83,7 @@
 
   ### Django
   - **Usage** → Expanding HTML via Python
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Order Management System](https://github.com/LostyGuy/Order-Management-System), [](), []()
   - **Confidence** → Learning
 
  <!-- ### Flask 
@@ -94,12 +94,12 @@
 
   ### SQLAlchemy
   - **Usage** → DB queries in python without SQL
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Order Management System](https://github.com/LostyGuy/Order-Management-System), [](), []()
   - **Confidence** → Learning
     
   ### Tkinter
   - **Usage** → Simple GUI 
-  - **Projects** → [](), [](), []()
+  - **Projects** → [Are you asleep](https://github.com/LostyGuy/Are-you-asleep), [Financial Calculator](https://github.com/LostyGuy/Finance_Calculator), []()
   - **Confidence** → Learning || Beginner
     
 ## ⚙️ Tools & Platforms
